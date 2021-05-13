@@ -18,3 +18,4 @@ Description: Rserve acts as a socket server (TCP/IP or local sockets)
 License: GPL-2 | file LICENSE
 URL: http://www.rforge.net/Rserve/
 Biarch: true
+RoxygenNote: 7.1.1
